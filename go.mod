@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/PaesslerAG/jsonpath v0.1.1
 	github.com/briandowns/spinner v1.16.0
-	github.com/go-test/deep v1.0.7
+	github.com/go-test/deep v1.0.8
 	github.com/golang/mock v1.6.0
 	github.com/mattn/go-isatty v0.0.13
 	github.com/mongodb-forks/digest v1.0.3
@@ -20,8 +20,8 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tangzero/inflector v1.0.0
-	go.mongodb.org/atlas v0.12.1-0.20210902121637-a40fdd6c5807
-	go.mongodb.org/ops-manager v0.28.2
+	go.mongodb.org/atlas v0.15.0
+	go.mongodb.org/ops-manager v0.37.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
