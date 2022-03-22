@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/PaesslerAG/jsonpath v0.1.1
 	github.com/briandowns/spinner v1.16.0
-	github.com/go-test/deep v1.0.7
+	github.com/go-test/deep v1.0.8
 	github.com/golang/mock v1.6.0
 	github.com/mattn/go-isatty v0.0.13
 	github.com/mongodb-forks/digest v1.0.3
@@ -20,8 +20,8 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tangzero/inflector v1.0.0
-	go.mongodb.org/atlas v0.12.1-0.20210902121637-a40fdd6c5807
-	go.mongodb.org/ops-manager v0.28.2
+	go.mongodb.org/atlas v0.15.0
+	go.mongodb.org/ops-manager v0.38.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -43,10 +43,10 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
-	github.com/xdg-go/stringprep v1.0.2 // indirect
+	github.com/xdg-go/stringprep v1.0.3 // indirect
 	golang.org/x/sys v0.0.0-20210510120138-977fb7262007 // indirect
 	golang.org/x/term v0.0.0-20210503060354-a79de5458b56 // indirect
-	golang.org/x/text v0.3.5 // indirect
+	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
